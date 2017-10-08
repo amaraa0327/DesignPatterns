@@ -1,0 +1,14 @@
+C:\Users\amarlptp\source\repos\DesignPatternsASD\DesignPatternsASD\obj\Debug\DesignPatternsASD.csproj.CoreCompileInputs.cache
+C:\Users\amarlptp\source\repos\DesignPatternsASD\DesignPatternsASD\bin\Debug\DesignPatternsASD.exe.config
+C:\Users\amarlptp\source\repos\DesignPatternsASD\DesignPatternsASD\bin\Debug\DesignPatternsASD.exe
+C:\Users\amarlptp\source\repos\DesignPatternsASD\DesignPatternsASD\bin\Debug\DesignPatternsASD.pdb
+C:\Users\amarlptp\source\repos\DesignPatternsASD\DesignPatternsASD\obj\Debug\DesignPatternsASD.exe
+C:\Users\amarlptp\source\repos\DesignPatternsASD\DesignPatternsASD\obj\Debug\DesignPatternsASD.pdb
+C:\Users\amarlptp\source\repos\DesignPatternsASD\DesignPatternsASD\obj\Debug\DesignPatternsASD.csprojResolveAssemblyReference.cache
+C:\Users\amarlptp\source\repos\DesignPatternsASD\DesignPatterns\DesignPatternsASD\obj\Debug\DesignPatternsASD.csprojResolveAssemblyReference.cache
+C:\Users\amarlptp\source\repos\DesignPatternsASD\DesignPatterns\DesignPatternsASD\obj\Debug\DesignPatternsASD.csproj.CoreCompileInputs.cache
+C:\Users\amarlptp\source\repos\DesignPatternsASD\DesignPatterns\DesignPatternsASD\obj\Debug\DesignPatternsASD.exe
+C:\Users\amarlptp\source\repos\DesignPatternsASD\DesignPatterns\DesignPatternsASD\obj\Debug\DesignPatternsASD.pdb
+C:\Users\amarlptp\source\repos\DesignPatternsASD\DesignPatterns\DesignPatternsASD\bin\Debug\DesignPatternsASD.exe.config
+C:\Users\amarlptp\source\repos\DesignPatternsASD\DesignPatterns\DesignPatternsASD\bin\Debug\DesignPatternsASD.exe
+C:\Users\amarlptp\source\repos\DesignPatternsASD\DesignPatterns\DesignPatternsASD\bin\Debug\DesignPatternsASD.pdb
